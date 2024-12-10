@@ -101,6 +101,7 @@ CCTV16,http://192.168.6.1:35455/itv/5000000008000023254.m3u8?cdn=bestzb#http://1
 CCTV 4k超高清,http://192.168.6.1:35455/ysptp/cctv4k_10m.m3u8#http://192.168.6.1:35455/ysptp/cctv4k.m3u8
 CCTV 8k超高清,http://192.168.6.1:35455/ysptp/cctv8k_36m.m3u8#http://192.168.6.1:35455/ysptp/cctv8k_120m.m3u8
 欢笑剧场,http://192.168.6.1:35455/itv/5000000007000010001.m3u8?cdn=bestzb
+翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 4KUHD,http://192.168.6.1:35455/itv/1000000004000011651.m3u8?cdn=ystenlive#http://192.168.6.1:35455/tptv/HD-20M-2160P-chunxiang4k.m3u8
 华数4K,http://192.168.6.1:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 咪咕4K-1,http://192.168.6.1:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
@@ -152,7 +153,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 新加坡中文台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8#https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8#http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000#http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8#https://pixman.mytvsuper.com.mp/mytvsuper/J
-翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+
 港澳台(娱乐),#genre#
 MYTVSUPER18,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
