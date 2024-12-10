@@ -101,7 +101,6 @@ CCTV16,http://192.168.6.1:35455/itv/5000000008000023254.m3u8?cdn=bestzb#http://1
 CCTV 4k超高清,http://192.168.6.1:35455/ysptp/cctv4k_10m.m3u8#http://192.168.6.1:35455/ysptp/cctv4k.m3u8
 CCTV 8k超高清,http://192.168.6.1:35455/ysptp/cctv8k_36m.m3u8#http://192.168.6.1:35455/ysptp/cctv8k_120m.m3u8
 欢笑剧场,http://192.168.6.1:35455/itv/5000000007000010001.m3u8?cdn=bestzb
-翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 4KUHD,http://192.168.6.1:35455/itv/1000000004000011651.m3u8?cdn=ystenlive#http://192.168.6.1:35455/tptv/HD-20M-2160P-chunxiang4k.m3u8
 华数4K,http://192.168.6.1:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 咪咕4K-1,http://192.168.6.1:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
@@ -153,7 +152,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 新加坡中文台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8#https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8#http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000#http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8#https://pixman.mytvsuper.com.mp/mytvsuper/J
-
+翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 港澳台(娱乐),#genre#
 MYTVSUPER18,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
@@ -378,19 +377,6 @@ Great Movies,https://tv.doube.eu.org/beesport?pid=25#https://pixman.mytvsuper.co
 Sky Cinema Comedy,https://tv.doube.eu.org/beesport?pid=26#https://pixman.mytvsuper.com.mp/beesport/UK_Sky_Cinema_Comedy_Live_TV
 Sky Cinema Family,https://tv.doube.eu.org/beesport?pid=27#https://pixman.mytvsuper.com.mp/beesport/UK_Sky_Cinema_Family_Live_TV
 Cartoon Network,https://tv.doube.eu.org/beesport?pid=28#https://pixman.mytvsuper.com.mp/beesport/UK_Cartoon_Network_Live_TV
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 IHOT&NewTV,#genre#
@@ -843,9 +829,7 @@ Fighter,http://192.168.6.1:35455/huya/11352949
 語之不顾細谨,http://192.168.6.1:35455/huya/26355785
 威猛先生,http://192.168.6.1:35455/huya/11342420
 小小毛纪录片2,http://192.168.6.1:35455/huya/29982679
-,
-,
-,
+
 斗鱼直播,#genre#
 Rainsun宇,http://192.168.6.1:35455/douyu/323876
 牛叔说电影,http://192.168.6.1:35455/douyu/2758565
@@ -856,7 +840,6 @@ baby丶贝贝,http://192.168.6.1:35455/douyu/431460
 小片片说大片,http://192.168.6.1:35455/douyu/4258555
 自说自话的总裁,http://192.168.6.1:35455/douyu/9317739
 蓝翔老三国,http://192.168.6.1:35455/douyu/7459925
-,
 1900影剧室,http://192.168.6.1:35455/douyu/7796193
 科幻Fans布玛,http://192.168.6.1:35455/douyu/3508304
 萌小鬼,http://192.168.6.1:35455/douyu/3928
@@ -870,43 +853,27 @@ UnaDirezione,http://192.168.6.1:35455/douyu/218859
 綫条小狗,http://192.168.6.1:35455/douyu/11279861
 酷炫小剧场,http://192.168.6.1:35455/douyu/36337
 雍正王朝,http://192.168.6.1:35455/douyu/4944033
-,
 贾贵队长真男神,http://192.168.6.1:35455/douyu/299854
 智仗心,http://192.168.6.1:35455/douyu/5635000
 当燕双鹰遇见李元芳,http://192.168.6.1:35455/douyu/3439096
 吃米滴虫,http://192.168.6.1:35455/douyu/315457
 爱情公寓vip,http://192.168.6.1:35455/douyu/6863367
-,
 当幽兰剑遇上链子刀,http://192.168.6.1:35455/douyu/6027991
 当铁手团遇到光复社,http://192.168.6.1:35455/douyu/5875025
 小粤兒,http://192.168.6.1:35455/douyu/5033502
 师落,http://192.168.6.1:35455/douyu/6911044
 懒猫是只喵,http://192.168.6.1:35455/douyu/260322
 丶小跟班丿瑶瑶,http://192.168.6.1:35455/douyu/2935323
-,
-,
-,
 疯狂小潴潴,http://192.168.6.1:35455/douyu/5522351
-,
-,
 苹果Zei妖,http://192.168.6.1:35455/douyu/2793084
-,
 牛奶味的梦猪猪,http://192.168.6.1:35455/douyu/5261342
-,
 成龙历险纪,http://192.168.6.1:35455/douyu/2287949
-,
 单纯的顺才少爷,http://192.168.6.1:35455/douyu/10084875
 小毅主播q,http://192.168.6.1:35455/douyu/6906628
 徐大sao,http://192.168.6.1:35455/douyu/7107176
-,
-,
-,
 春卷大师,http://192.168.6.1:35455/douyu/52787
-,
 米尼影院,http://192.168.6.1:35455/douyu/7642724
-,
 脑袋大1937,http://192.168.6.1:35455/douyu/7655471
-,
 奇光主播,http://192.168.6.1:35455/douyu/8009547
 一样二职,http://192.168.6.1:35455/douyu/11827530
 Sy一渣男李元芳,http://192.168.6.1:35455/douyu/7812810
@@ -1917,6 +1884,7 @@ f封神榜,http://192.168.6.1:35455/yy/1382797534
 24h 我爱我家 纯音频,http://192.168.6.1:35455/yy/1356212303
 鬼片 港片电影,http://192.168.6.1:35455/yy/1455891197
 【新三国】蓝光版,http://192.168.6.1:35455/yy/1382705738
+【新三国】,http://192.168.6.1:35455/yy/1382851415
 经典动漫,http://192.168.6.1:35455/yy/24180320
 我的兄弟叫顺溜,http://192.168.6.1:35455/yy/1459331991
 星爷经典-百看不厌,http://192.168.6.1:35455/yy/1382736808
@@ -1991,7 +1959,6 @@ f封神榜,http://192.168.6.1:35455/yy/1382797534
 国漫动漫,http://192.168.6.1:35455/yy/1354768828
 精彩动漫,http://192.168.6.1:35455/yy/1420843376
 封神英雄榜,http://192.168.6.1:35455/yy/1508358696
-【新三国】,http://192.168.6.1:35455/yy/1382851415
 经典古装剧,http://192.168.6.1:35455/yy/1354555195
 笑傲江湖 4K超清,http://192.168.6.1:35455/yy/1354282410
 动漫,http://192.168.6.1:35455/yy/1382747970
@@ -2382,14 +2349,14 @@ Lisa丽莎,http://192.168.6.1:35455/yy/1382736807
 老卓电影,http://192.168.6.1:35455/yy/1354770516
 丁大命,http://192.168.6.1:35455/yy/1382735579
 远去的飞鹰-影视剧,http://192.168.6.1:35455/yy/1354930912
-欧美配音电影！！！,http://192.168.6.1:35455/yy/1354693629
+欧美配音电影,http://192.168.6.1:35455/yy/1354693629
 心理追凶-烧脑港剧,http://192.168.6.1:35455/yy/1354936207
 降服魔女的手段-泰剧,http://192.168.6.1:35455/yy/1354932405
 燃情无限流—罗拉快跑,http://192.168.6.1:35455/yy/1354936136
 甜蜜青春-致我们暖暖的小时光,http://192.168.6.1:35455/yy/1382736874
 超治愈！奇趣动物园,http://192.168.6.1:35455/yy/1382735545
 国产喜剧大片,http://192.168.6.1:35455/yy/1382745113
-太空生命？高分科幻电影开播,http://192.168.6.1:35455/yy/1382851586
+太空生命？高分科幻电影开播,http://192.168.6.1:35455/yy/138285158,
 战争大片,http://192.168.6.1:35455/yy/1382736819
 电影频道,http://192.168.6.1:35455/yy/1460126969
 什么会让你快乐,http://192.168.6.1:35455/yy/54886912
