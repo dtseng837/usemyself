@@ -41,6 +41,7 @@ CGTNen,http://192.168.6.1:35455/ysptp/cgtnen.m3u8#https://0472.org/hls/cgtn.m3u8
 CGTN-记录,http://192.168.6.1:35455/ysptp/cgtndoc.m3u8#http://192.168.6.1:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 
 省市卫视,#genre#
 广东卫视,http://192.168.6.1:35455/itv/1000000001000014176.m3u8?cdn=ystenlive#http://192.168.6.1:35455/itv/6000000001000031076.m3u8?cdn=wasusyt#http://192.168.6.1:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
