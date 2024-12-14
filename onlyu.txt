@@ -252,6 +252,9 @@ CCTV6,http://192.168.6.1:35455/itv/1000000001000001737.m3u8?cdn=ystenlive#http:/
 华数4K,http://192.168.6.1:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 星影,http://205.185.123.236:8899/1/now/stream.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+家庭影院，https://tv.iill.top/migu/jtyy
+香港经典电影，https://tv.iill.top/migu/xgdy
+新片放影厅，https://tv.iill.top/migu/xpdy
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 TVB星河,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
@@ -325,7 +328,7 @@ TraceSports,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv077#https://fourgtv.my
 影迷數位電影台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv011#https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv011
 AMC 電影台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv017#https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv017
 CatchPlay 電影台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv076#https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv076
-My Cinema Europe HD 我的歐洲電影,https://pixman.mytvsuper.com.mp/4gtv/176#https://fourgtv.mytvsuper.com.mp/4gtv/176
+我的歐洲電影,https://pixman.mytvsuper.com.mp/4gtv/176#https://fourgtv.mytvsuper.com.mp/4gtv/176
 公視戲劇台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv042#https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv042
 采昌影劇台,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv049#https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv049
 台灣戲劇台,https://pixman.mytvsuper.com.mp/litv/litv-longturn22#https://fourgtv.mytvsuper.com.mp/litv/litv-longturn22
