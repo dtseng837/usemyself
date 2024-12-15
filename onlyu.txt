@@ -118,6 +118,7 @@ CCTV1,http://192.168.6.1:35455/tptv/G_CCTV-1-AVS-4K264.m3u8
 CCTV3,http://192.168.6.1:35455/tptv/G_CCTV-3-AVS-4K264.m3u8
 CCTV5,http://192.168.6.1:35455/tptv/G_CCTV-5-AVS-4K264.m3u8
 北京纪实科教,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+
 港澳台(新闻),#genre#
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰卫视资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
@@ -154,6 +155,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8#https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8#http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000#http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8#https://pixman.mytvsuper.com.mp/mytvsuper/J
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+
 港澳台(娱乐),#genre#
 MYTVSUPER18,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
@@ -188,6 +190,7 @@ Plus即时频道,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+
 地方节目,#genre#
 上海ICS外语,http://192.168.6.1:35455/itv/5000000010000030951.m3u8?cdn=bestzb
 上海第一财经,http://192.168.6.1:35455/itv/5000000010000027146.m3u8?cdn=bestzb
@@ -254,12 +257,11 @@ Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 
 CCTV6,http://192.168.6.1:35455/itv/1000000001000001737.m3u8?cdn=ystenlive#http://192.168.6.1:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
 华数4K,http://192.168.6.1:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
-星影,http://205.185.123.236:8899/1/now/stream.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 动作电影 4M,http://39.134.136.161:6610/000000001000/2000000003000000017/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000017#http://39.134.136.161:6610/000000001000/1000000004000018653/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000018653#http://39.134.136.161:6610/000000001000/8103864434730665389/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8103864434730665389
-家庭影院，https://tv.iill.top/migu/jtyy
-香港经典电影，https://tv.iill.top/migu/xgdy
-新片放影厅，https://tv.iill.top/migu/xpdy
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
+CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
+CHC影谜电影,http://z.b.bkpcp.top/m.php?id=ymdy
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 TVB星河,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
@@ -273,13 +275,10 @@ Astr剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 动作电影,http://kxrj.site:998/123/mg.php?id=chcdz#http://p.ytelc.com/169l/0/aikan.php?id=chcdz
 恐怖电影,https://stream1.freetv.fun/d62a64f3d88deee7eba8b994088a330efcfeeff412dd031f0a86187399584213.ctv
 林正英,https://stream1.freetv.fun/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
-电影01,https://stream1.freetv.fun/b609f9ba92814ec781d1ed8bd7ce5d87be36984fe6e619bb12cd16664dd5e216.m3u8
 美亞電影,https://stream1.freetv.fun/cb5a38913bd9bafe61938ee949c8018ba280a09994b2f0aef21141c532b61df9.m3u8
 美亚电影,https://stream1.freetv.fun/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.ctv
 香港_C+_频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 邵氏影院@代,https://www.goodiptv.club/douyu/4246519#http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519#http://www.goodiptv.club/douyu/4246519
-amc电影频道,http://61.221.215.25:8800/hls/43/index.m3u8
-大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
 南京影视,http://192.168.6.1:35455/tptv/G_NJYS.m3u8
 怀旧MTV,http://192.168.6.1:35455/tptv/GITV-JS-37.m3u8
 第一院线,http://192.168.6.1:35455/tptv/GITV-JS-2.m3u8
@@ -338,7 +337,6 @@ Classica 古典樂,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv059#https://fou
 Lifetime 娛樂頻道,https://pixman.mytvsuper.com.mp/4gtv/217#https://fourgtv.mytvsuper.com.mp/4gtv/217
 MTV Live HD 音樂頻道,https://pixman.mytvsuper.com.mp/4gtv/213#https://fourgtv.mytvsuper.com.mp/4gtv/213
 Mezzo Live,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv083#https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv083
-豬哥亮歌廳秀,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv006#https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv006
 Trace Urban,https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv082#https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv082
 LUXE TV,https://pixman.mytvsuper.com.mp/4gtv/175#https://fourgtv.mytvsuper.com.mp/4gtv/175
 Pet Club TV,https://pixman.mytvsuper.com.mp/4gtv/182#https://fourgtv.mytvsuper.com.mp/4gtv/182
@@ -462,7 +460,9 @@ CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV16,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
-家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
+CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
+CHC影谜电影,http://z.b.bkpcp.top/m.php?id=ymdy
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
 湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
