@@ -96,7 +96,7 @@ CGTN-记录,http://192.168.6.1:35455/ysptp/cgtndoc.m3u8#http://192.168.6.1:35455
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
 4K&8K,#genre#
 CCTV16,http://192.168.6.1:35455/itv/5000000008000023254.m3u8?cdn=bestzb#http://192.168.6.1:35455/ysptp/cctv4k16.m3u8#http://192.168.6.1:35455/ysptp/cctv4k16_10m.m3u8#http://192.168.6.1:35455/tptv/G_CCTV-16-4K.m3u8
-CCTV 4k超高清,http://192.168.6.1:35455/ysptp/cctv4k_10m.m3u8#http://192.168.6.1:35455/ysptp/cctv4k.m3u8#http://192.168.6.1:35455/tptv/miguaoyun01-AVS-4K01.m3u8
+CCTV 4k超高清,http://192.168.6.1:35455/ysptp/cctv4k_10m.m3u8#http://192.168.6.1:35455/ysptp/cctv4k.m3u8#http://192.168.6.1:35455/tptv/miguaoyun01-AVS-4K01.m3u8#http://192.168.6.1:35455/gaoma/cctv4k_10m.m3u8#http://192.168.6.1:35455/gaoma/cctv4k.m3u8
 CCTV 8k超高清,http://192.168.6.1:35455/ysptp/cctv8k_36m.m3u8#http://192.168.6.1:35455/ysptp/cctv8k_120m.m3u8
 欢笑剧场,http://192.168.6.1:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 4KUHD,http://192.168.6.1:35455/itv/1000000004000011651.m3u8?cdn=ystenlive#http://192.168.6.1:35455/tptv/HD-20M-2160P-chunxiang4k.m3u8
