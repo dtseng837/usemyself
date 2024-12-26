@@ -57,6 +57,7 @@ CGTN-记录,http://192.168.6.1:35455/ysptp/cgtndoc.m3u8#http://192.168.6.1:35455
 金鹰纪实,http://192.168.6.1:35455/itv/5000000011000031203.m3u8?cdn=bestzb#http://192.168.6.1:50001/1000000002000011724/ystenlive/index.m3u8
 快乐垂钓,http://192.168.6.1:35455/itv/5000000011000031206.m3u8?cdn=bestzb#http://192.168.6.1:50001/5000000011000031206/bestzb/index.m3u8#http://192.168.6.1:50001/2000000002000000067/hnbblive/index.m3u8
 金鹰卡通,http://192.168.6.1:50001/5000000006000040024/bestzb/index.m3u8#http://192.168.6.1:50001/1000000002000016601/ystenlive/index.m3u8#http://192.168.6.1:50001/5000000006000040024/bestzb/index.m3u8
+
 吉林卫视,http://192.168.6.1:35455/itv/5000000011000031117.m3u8?cdn=bestzb#http://192.168.6.1:50001/1000000002000027730/ystenlive/index.m3u8
 吉林延边卫视,http://192.168.6.1:50001/2000000003000000049/hnbblive/index.m3u8#http://192.168.6.1:50001/1000000005000266008/ystenlive/index.m3u8
 江苏卫视,http://192.168.6.1:35455/itv/1000000001000001828.m3u8?cdn=ystenlive#http://192.168.6.1:35455/itv/6000000001000014861.m3u8?cdn=wasusyt#http://192.168.6.1:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
@@ -256,7 +257,7 @@ CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8#http://z.b.bkp
 CHC影迷电影,http://z.b.bkpcp.top/m.php?id=ymdy#http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 
 
-咪咕频道,#genre#
+咪咕源,#genre#
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -284,6 +285,8 @@ CHC影谜电影,http://z.b.bkpcp.top/m.php?id=ymdy
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
 湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
+山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
+山西卫视,http://z.b.bkpcp.top/m.php?id=shxws
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
@@ -536,9 +539,6 @@ Crime Time,https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
 贾玲，http://192.168.6.1:35455/huya/30080235
 周润发，http://192.168.6.1:35455/huya/11342387
 孙红雷，http://192.168.6.1:35455/huya/11352917
-
-
-
 王宝强经典电影,http://192.168.6.1:35455/huya/26355823
 沈腾电影,http://192.168.6.1:35455/huya/11601968
 黄渤电影,http://192.168.6.1:35455/huya/11352876
