@@ -67,7 +67,7 @@ CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:354
 东南卫视,http://192.168.68.2:35455/itv/5000000004000010584.m3u8?cdn=bestzb#http://192.168.68.2:35455/itv/1000000005000265033.m3u8?cdn=ystenlive#http://192.168.68.2:50001/5000000004000010584/bestzb/index.m3u8#http://192.168.68.2:50001/1000000005000265033/ystenlive/index.m3u8#http://192.168.6.1:35455/itv/5000000004000010584.m3u8?cdn=bestzb#http://192.168.6.1:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
 甘肃卫视,http://192.168.68.2:35455/itv/5000000011000031121.m3u8?cdn=bestzb#http://192.168.68.2:50001/5000000011000031121/bestzb/index.m3u8#http://192.168.68.2:50001/1000000002000017827/ystenlive/index.m3u8#http://192.168.6.1:35455/itv/5000000011000031121.m3u8?cdn=bestzb
 贵州卫视,http://192.168.68.2:35455/itv/5000000004000025843.m3u8?cdn=bestzb#http://192.168.68.2:50001/5000000004000025843/bestzb/index.m3u8#http://192.168.6.1:35455/itv/5000000004000025843.m3u8?cdn=bestzb
-海南卫视,ttp://192.168.6.1:35455/itv/5000000004000006211.m3u8?cdn=bestzb#http://192.168.68.2:50001/5000000004000006211/bestzb/index.m3u8
+海南卫视,http://192.168.68.2:35455/itv/5000000004000006211.m3u8?cdn=bestzb#http://192.168.68.2:50001/5000000004000006211/bestzb/index.m3u8
 河北卫视,http://192.168.68.2:35455/itv/5000000006000040016.m3u8?cdn=bestzb#http://192.168.68.2:50001/5000000006000040016/bestzb/index.m3u8#http://192.168.68.2:50001/1000000002000017118/ystenlive/index.m3u8#http://192.168.6.1:35455/itv/5000000006000040016.m3u8?cdn=bestzb
 河南卫视,http://192.168.68.2:35455/itv/5000000011000031119.m3u8?cdn=bestzb#http://192.168.68.2:50001/5000000011000031119/bestzb/index.m3u8#http://192.168.68.2:50001/1000000002000027731/ystenlive/index.m3u8#http://192.168.6.1:35455/itv/5000000011000031119.m3u8?cdn=bestzb
 黑龙江卫视,http://192.168.68.2:35455/itv/1000000001000001925.m3u8?cdn=ystenlive#http://192.168.68.2:35455/itv/6000000001000016510.m3u8?cdn=wasusyt#http://192.168.68.2:35455/itv/1000000005000265029.m3u8?cdn=ystenlive#http://192.168.6.1:35455/itv/1000000001000001925.m3u8?cdn=ystenlive#http://192.168.6.1:35455/itv/6000000001000016510.m3u8?cdn=wasusyt#http://192.168.6.1:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
@@ -161,14 +161,11 @@ CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:354
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?#http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8#https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?#http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?#http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8#http://192.168.68.2:50001/2000000004000000001/hnbblive/index.m3u8
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
@@ -177,8 +174,7 @@ CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:354
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?
-余姚新闻综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+余姚新闻综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8#https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?#http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
@@ -187,8 +183,6 @@ CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:354
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
-南宁影娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-南宁影娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,https://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
@@ -196,7 +190,6 @@ CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:354
 南宁都市生活,https://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8?zguangxd
-田东综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
