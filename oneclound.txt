@@ -52,6 +52,15 @@ CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:354
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 
+北京IPTV淘电影,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTVTaoDianYing
+北京IPTV4K,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTV4k
+爱上4K,http://v4s.xiepeiru.top:1123/iptv/zx/AiShang4k
+北京IPTV淘剧场,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTVTaoJuChang
+CHC高清电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCGaoQingDianYing
+CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
+1905电影亚洲,http://v4s.xiepeiru.top:1123/iptv/yz/1905y
+1905电影国际,http://v4s.xiepeiru.top:1123/iptv/gj/1905g
+
 
 卫视节目,#genre#
 
