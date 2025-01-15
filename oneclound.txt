@@ -213,12 +213,12 @@ CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
 CCTV1-4K,http://192.168.68.2:35455/rptv/G_CCTV-1-AVS-4K264.m3u8?license=gitv
 CCTV3-4K,http://192.168.68.2:35455/rptv/G_CCTV-3-AVS-4K264.m3u8?license=gitv
 CCTV5-4K,http://192.168.68.2:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv
-CCTV6-高码,http://192.168.68.2:35455/rptv/G_CCTV-6-AVS-4K264.m3u8?license=gitv
+CCTV6-4K,http://192.168.68.2:35455/rptv/G_CCTV-6-AVS-4K264.m3u8?license=gitv
 CCTV8-4K,http://192.168.68.2:35455/rptv/G_CCTV-8-AVS-4K264.m3u8?license=gitv
 CCTV16-4K,http://192.168.68.2:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv
 
 CCTV16,http://192.168.6.1:35455/itv/5000000008000023254.m3u8?cdn=bestzb#http://192.168.6.1:35455/gaoma/cctv4k16.m3u8#http://192.168.6.1:35455/gaoma/cctv4k16_10m.m3u8#http://192.168.68.2:35455/itv/5000000008000023254.m3u8?cdn=bestzb#http://192.168.68.2:35455/gaoma/cctv4k16.m3u8#http://192.168.68.2:35455/gaoma/cctv4k16_10m.m3u8
-CCTV 4k超高清,http://192.168.6.1:35455/gaoma/cctv4k_10m.m3u8#http://192.168.6.1:35455/gaoma/cctv4k.m3u8#http://192.168.68.2:35455/gaoma/cctv4k_10m.m3u8#http://192.168.68.2:35455/gaoma/cctv4k.m3u8
+CCTV 4k超高清,http://192.168.68.2:35455/rptv/G_CCTV-4K-HD.m3u8?license=gitv#http://192.168.6.1:35455/gaoma/cctv4k_10m.m3u8#http://192.168.6.1:35455/gaoma/cctv4k.m3u8#http://192.168.68.2:35455/gaoma/cctv4k_10m.m3u8#http://192.168.68.2:35455/gaoma/cctv4k.m3u8
 CCTV 8k超高清,http://192.168.6.1:35455/gaoma/cctv8k_36m.m3u8#http://192.168.6.1:35455/gaoma/cctv8k_120m.m3u8#http://192.168.68.2:35455/gaoma/cctv8k_36m.m3u8#http://192.168.68.2:35455/gaoma/cctv8k_120m.m3u8
 欢笑剧场,http://192.168.6.1:35455/itv/5000000007000010001.m3u8?cdn=bestzb#http://192.168.68.2:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 4KUHD,http://192.168.6.1:35455/itv/1000000004000011651.m3u8?cdn=ystenlive#http://192.168.68.2:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
@@ -335,16 +335,26 @@ CHC影谜电影,http://z.b.bkpcp.top/m.php?id=ymdy
 
 
 4GTV,#genre#
-
-中天新聞台,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv009#http://192.168.68.2:5000/litv/4gtv-4gtv009
-台視,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv066#http://192.168.68.2:5000/litv/4gtv-4gtv066
-中視,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv040#http://192.168.68.2:5000/litv/4gtv-4gtv040
-華視,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv041#http://192.168.68.2:5000/litv/4gtv-4gtv041
+龍華經典台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn21#http://192.168.68.2:5000/litv/litv-longturn21
+龍華電影台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn03#http://192.168.68.2:5000/litv/litv-longturn03
 亞洲旅遊台,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv076#http://192.168.68.2:5000/litv/litv-longturn17
 龍華戲劇台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn18#http://192.168.68.2:5000/litv/litv-longturn18
 台灣戲劇台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn22#http://192.168.68.2:5000/litv/litv-longturn22
 龍華偶像台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn12#http://192.168.68.2:5000/litv/litv-longturn12
 龍華日韓台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn11#http://192.168.68.2:5000/litv/litv-longturn11
+ELTV生活英語台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn20
+靖天電影台,http://192.168.68.2:5000/litv/4gtv-4gtv061
+靖洋戲劇台,http://192.168.68.2:5000/litv/4gtv-4gtv045
+影迷數位紀實台,http://192.168.68.2:5000/4gtv/212
+影迷數位電影台,http://192.168.68.2:5000/litv/4gtv-4gtv011
+AMC 電影台,http://192.168.68.2:5000/litv/4gtv-4gtv017
+CatchPlay 電影台,http://192.168.68.2:5000/litv/4gtv-4gtv076
+采昌影劇台,http://192.168.68.2:5000/litv/4gtv-4gtv049
+
+中天新聞台,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv009#http://192.168.68.2:5000/litv/4gtv-4gtv009
+台視,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv066#http://192.168.68.2:5000/litv/4gtv-4gtv066
+中視,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv040#http://192.168.68.2:5000/litv/4gtv-4gtv040
+華視,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv041#http://192.168.68.2:5000/litv/4gtv-4gtv041
 華視新聞,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv052#http://192.168.68.2:5000/litv/4gtv-4gtv052
 三立新聞iNEWS,http://192.168.68.2:50002/index.m3u8?pid=iNEWS
 寰宇財經台,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv158#http://192.168.68.2:5000/litv/litv-longturn23
@@ -352,10 +362,7 @@ CHC影谜电影,http://z.b.bkpcp.top/m.php?id=ymdy
 中視新聞,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv074#http://192.168.68.2:5000/litv/4gtv-4gtv074
 寰宇新聞台灣台,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv156#http://192.168.68.2:5000/litv/litv-longturn15
 寰宇新聞台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn14#http://192.168.68.2:5000/litv/litv-longturn14
-龍華經典台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn21#http://192.168.68.2:5000/litv/litv-longturn21
-龍華電影台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn03#http://192.168.68.2:5000/litv/litv-longturn03
 好消息,http://192.168.68.2:50002/index.m3u8?pid=litv-ftv16#http://192.168.68.2:5000/litv/litv-ftv16
-ELTV生活英語台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn20
 Smart知識台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn19
 Focus探索新知台,http://192.168.68.2:50002/index.m3u8?pid=ofiii82
 龍華卡通台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn01#http://192.168.68.2:5000/litv/litv-longturn01
@@ -377,9 +384,7 @@ Focus探索新知台,http://192.168.68.2:50002/index.m3u8?pid=ofiii82
 靖天卡通台,http://192.168.68.2:5000/litv/4gtv-4gtv044
 靖天育樂台,http://192.168.68.2:5000/litv/4gtv-4gtv062
 靖天資訊台,http://192.168.68.2:5000/litv/4gtv-4gtv065
-靖天電影台,http://192.168.68.2:5000/litv/4gtv-4gtv061
 靖天歡樂台,http://192.168.68.2:5000/litv/4gtv-4gtv054
-靖洋戲劇台,http://192.168.68.2:5000/litv/4gtv-4gtv045
 靖洋卡通 Nice Bingo,http://192.168.68.2:5000/litv/4gtv-4gtv057
 TVBS,http://192.168.68.2:5000/litv/4gtv-4gtv073
 TVBS 新聞台,http://192.168.68.2:5000/litv/4gtv-4gtv072
@@ -415,13 +420,9 @@ TechStorm,http://192.168.68.2:5000/4gtv/181
 時尚運動X,http://192.168.68.2:5000/4gtv/277
 智林體育台,http://192.168.68.2:5000/litv/4gtv-4gtv101
 TraceSports,http://192.168.68.2:5000/litv/4gtv-4gtv077
-影迷數位紀實台,http://192.168.68.2:5000/4gtv/212
-影迷數位電影台,http://192.168.68.2:5000/litv/4gtv-4gtv011
-AMC 電影台,http://192.168.68.2:5000/litv/4gtv-4gtv017
-CatchPlay 電影台,http://192.168.68.2:5000/litv/4gtv-4gtv076
 My Cinema Europe HD 我的歐洲電影,http://192.168.68.2:5000/4gtv/176
 公視戲劇台,http://192.168.68.2:5000/litv/4gtv-4gtv042
-采昌影劇台,http://192.168.68.2:5000/litv/4gtv-4gtv049
+
 戲劇免費看 1台,http://192.168.68.2:5000/4gtv/270
 戲劇免費看 2台,http://192.168.68.2:5000/4gtv/244
 經典電影台,http://192.168.68.2:5000/4gtv/201
@@ -864,10 +865,6 @@ bang派,http://192.168.6.1:35455/huya/11336719#http://192.168.68.2:35455/huya/11
 倚天毒龙记,http://192.168.6.1:35455/douyu/7655471#http://192.168.68.2:35455/douyu/7655471
 庆余年,http://192.168.6.1:35455/douyu/7812810#http://192.168.68.2:35455/douyu/7812810
 花千骨,http://192.168.6.1:35455/huya/26355839#http://192.168.68.2:35455/huya/26355839
-錦繡安寧,http://192.168.68.2:50002/index.m3u8?pid=ofiii100
-琅琊榜,http://192.168.68.2:50002/index.m3u8?pid=ofiii101
-扶搖,http://192.168.68.2:50002/index.m3u8?pid=ofiii102
-三國,http://192.168.68.2:50002/index.m3u8?pid=ofiii103
 倚天屠龙记 超清,http://192.168.6.1:35455/yy/1354755003#http://192.168.68.2:35455/yy/1354755003
 惊恐盗暮鬼怪,http://192.168.6.1:35455/yy/1382749525#http://192.168.68.2:35455/yy/1382749525
 水浒传,http://192.168.6.1:35455/yy/1353873252#http://192.168.68.2:35455/yy/1353873252
@@ -878,7 +875,6 @@ f封神榜,http://192.168.6.1:35455/yy/1382797534#http://192.168.68.2:35455/yy/1
 电视剧-流金岁月,http://192.168.6.1:35455/yy/1382749906#http://192.168.68.2:35455/yy/1382749906
 舌尖上的中国第2季,http://192.168.6.1:35455/yy/1354930943#http://192.168.68.2:35455/yy/1354930943
 一笑倾城,http://192.168.6.1:35455/yy/1382735553#http://192.168.68.2:35455/yy/1382735553
-
 武媚娘傳奇,http://192.168.68.2:50002/index.m3u8?pid=ofiii104
 長樂曲,http://192.168.68.2:50002/index.m3u8?pid=ofiii105
 軍師聯盟,http://192.168.68.2:50002/index.m3u8?pid=ofiii106
