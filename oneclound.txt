@@ -334,22 +334,7 @@ NEWTV中国功夫,http://192.168.68.1:35455/itv/2000000003000000009.m3u8?cdn=hnb
 凤凰卫视资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 东方卫视国际频道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-TVBS新闻台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-三立财经新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-环球,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-新加坡中文台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8#https://pixman.mytvsuper.com.mp/mytvsuper/J
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 MYTVSUPER18,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
@@ -372,6 +357,25 @@ MYTVSUPER,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+TVBS新闻台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+三立财经新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+环球,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+新加坡中文台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
@@ -380,9 +384,6 @@ Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8	
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 
 影视娱乐,#genre#
@@ -645,7 +646,6 @@ Smart 知識台,http://192.168.68.2:5000/litv/litv-longturn19
 BBC,http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-动物,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 ASC搜索频英,http://61.221.215.25:8800/hls/50/index.m3u8
 Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
