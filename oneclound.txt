@@ -225,7 +225,85 @@ CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
 湖南经视,http://192.168.68.2:50001/7766420291569067385/hnbblive/index.m3u8
 湖南娱乐,http://192.168.68.2:50001/6427893650335440392/hnbblive/index.m3u8
 
+体育频道,#genre#
 
+TNT Sport 1,http://192.168.68.2:8000/beesport/TNT_Sports_1
+TNT Sport 2,http://192.168.68.2:8000/beesport/TNT_Sports_2
+TNT Sport 3,http://192.168.68.2:8000/beesport/TNT_Sports_3
+TNT Sport 4,http://192.168.68.2:8000/beesport/TNT_Sports_4
+Sky Sports Football,http://192.168.68.2:8000/beesport/Sky_Sports_Football_Live_TV
+Sky Sports Main Event,http://192.168.68.2:8000/beesport/Sky_Sports_Main_Event
+Sky Sports Premier League,http://192.168.68.2:8000/beesport/Sky_Sports_Premier_League
+Sky Sports Action,http://192.168.68.2:8000/beesport/Sky_Sports_Action_Live_TV
+Sky Sports Mix,http://192.168.68.2:8000/beesport/Sky_Sports_Mix_Live_TV
+Sky Sports Arena,http://192.168.68.2:8000/beesport/Sky_Sports_Arena_Live_TV
+Sky Sports News,http://192.168.68.2:8000/beesport/Sky_Sports_News_Live_TV
+Sky Sports Cricket,http://192.168.68.2:8000/beesport/Sky_Sports_Cricket_Live_TV
+Sky Sports Tennis,http://192.168.68.2:8000/beesport/Sky_Sports_Tennis
+Sky Sports F1,http://192.168.68.2:8000/beesport/Sky_Sports_F1_Live_TV
+Sky Sports Golf,http://192.168.68.2:8000/beesport/Sky_Sports_Golf_Live_TV
+Sky Sports Racing,http://192.168.68.2:8000/beesport/Sky_Sports_Racing_Live_TV
+Tennis Channel,http://192.168.68.2:8000/beesport/Tennis_Channel_Live_TV
+LaLiga TV,http://192.168.68.2:8000/beesport/La_Liga_TV_Live_TV
+HBO 1,http://192.168.68.2:8000/beesport/HBO_Live_TV
+HBO 2,http://192.168.68.2:8000/beesport/HBO_2_Live_TV
+Discovery Channel,http://192.168.68.2:8000/beesport/Discovery_Channel_Live_TV
+Discovery Life,http://192.168.68.2:8000/beesport/Discovery_Life_Live_TV
+Cinemax West,http://192.168.68.2:8000/beesport/Cinemax_West_Live_TV
+Great Movies,http://192.168.68.2:8000/beesport/UK_Great_Movies_Live_TV
+Sky Cinema Comedy,http://192.168.68.2:8000/beesport/UK_Sky_Cinema_Comedy_Live_TV
+Sky Cinema Family,http://192.168.68.2:8000/beesport/UK_Sky_Cinema_Family_Live_TV
+Cartoon Network,http://192.168.68.2:8000/beesport/UK_Cartoon_Network_Live_TV
+Virgin 1,http://192.168.68.2:8000/beesport/UK_Virgin_1
+Virgin 2,http://192.168.68.2:8000/beesport/UK_Virgin_2
+Virgin 3,http://192.168.68.2:8000/beesport/UK_Virgin_3
+DAZN,http://192.168.68.2:8000/beesport/DAZN_Live_TV
+Bein Sports USA,http://192.168.68.2:8000/beesport/Bein_Sports_USA_Live_TV
+Bein Sports English 2,http://192.168.68.2:8000/beesport/Bein_Sports_English_2_Live_TV
+SuperSport Premier League,http://192.168.68.2:8000/beesport/SuperSport_Premier_League_Live_TV
+SuperSport LaLiga,http://192.168.68.2:8000/beesport/SuperSport_LaLiga_Live_TV
+SuperSport Action,http://192.168.68.2:8000/beesport/SuperSport_Action_Live_TV
+SuperSport Blitz,http://192.168.68.2:8000/beesport/SuperSport_Blitz_Live_TV
+SuperSport Cricket,http://192.168.68.2:8000/beesport/SuperSport_Cricket_Live_TV
+SuperSport Football,http://192.168.68.2:8000/beesport/SuperSport_Football_Live_TV
+SuperSport Golf,http://192.168.68.2:8000/beesport/SuperSport_Golf_Live_TV
+SuperSport Rugby,http://192.168.68.2:8000/beesport/SuperSport_Rugby_Live_TV
+SuperSport Tennis,http://192.168.68.2:8000/beesport/SuperSport_Tennis_Live_TV
+Variety 1,http://192.168.68.2:8000/beesport/Variety_1_Live_TV
+Variety 2,http://192.168.68.2:8000/beesport/Variety_2_Live_TV
+Variety 3,http://192.168.68.2:8000/beesport/Variety_3_Live_TV
+Variety 4,http://192.168.68.2:8000/beesport/Variety_4_Live_TV
+Eurosport 1,http://192.168.68.2:8000/beesport/Eurosport_1_Live_TV
+Eurosport 2,http://192.168.68.2:8000/beesport/Eurosport_2_Live_TV
+Premier Sports 1,http://192.168.68.2:8000/beesport/Premier_Sports_1
+Premier Sports 2,http://192.168.68.2:8000/beesport/Premier_Sports_2
+Golf Channel,http://192.168.68.2:8000/beesport/Golf_Channel_Live_TV
+MLB Network,http://192.168.68.2:8000/beesport/MLB_Network_Live_TV
+NBA TV,http://192.168.68.2:8000/beesport/NBA_TV_Live_TV
+NFL Network,http://192.168.68.2:8000/beesport/NFL_Network_Live_TV
+NFL Redzone,http://192.168.68.2:8000/beesport/NFL_REDZONE_Live_TV
+NHL Network,http://192.168.68.2:8000/beesport/NHL_Network_Live_TV
+WWE,http://192.168.68.2:8000/beesport/WWE_Live_TV
+Willow Cricket,http://192.168.68.2:8000/beesport/Willow_Cricket_Live_TV
+Willow Extra,http://192.168.68.2:8000/beesport/Willow_Extra_Live_TV
+World Fishing Network,http://192.168.68.2:8000/beesport/World_Fishing_Network_Live_TV
+Fight Network,http://192.168.68.2:8000/beesport/Fight_Network_Live_TV
+ESPN,http://192.168.68.2:8000/beesport/ESPN_Live_TV
+ESPN 2,http://192.168.68.2:8000/beesport/ESPN_2_Live_TV
+ESPN News,http://192.168.68.2:8000/beesport/ESPN_News_Live_TV
+ESPN U,http://192.168.68.2:8000/beesport/ESPN_U_Live_TV
+ITV 1,http://192.168.68.2:8000/beesport/ITV_1
+ITV 2,http://192.168.68.2:8000/beesport/ITV_2
+ITV 3,http://192.168.68.2:8000/beesport/ITV_3
+ITV 4,http://192.168.68.2:8000/beesport/ITV_4
+MUTV,http://192.168.68.2:8000/beesport/MUTV_Live_TV
+LFC TV,http://192.168.68.2:8000/beesport/LFC_TV_Live_TV
+ACC Network,http://192.168.68.2:8000/beesport/ACC_Network_Live_TV
+CBS Sports Network,http://192.168.68.2:8000/beesport/CBS_Sports_Network_Live_TV
+CNBC,http://192.168.68.2:8000/beesport/CNBC_Live_TV
+Fox Sports 1,http://192.168.68.2:8000/beesport/Fox_Sports_1_Live_TV
+Fox Sports 2,http://192.168.68.2:8000/beesport/Fox_Sports_2_Live_TV
+FOX News,http://192.168.68.2:8000/beesport/FOX_NEWS_Live_TV
 
 
 HOT&NewTV&BEST,#genre#
