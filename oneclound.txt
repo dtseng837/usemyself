@@ -305,6 +305,13 @@ Fox Sports 1,http://192.168.68.2:8000/beesport/Fox_Sports_1_Live_TV
 Fox Sports 2,http://192.168.68.2:8000/beesport/Fox_Sports_2_Live_TV
 FOX News,http://192.168.68.2:8000/beesport/FOX_NEWS_Live_TV
 
+网页版,#genre#
+
+CCTV1,webview://https://tv.cctv.com/live/cctv1/
+CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
+CCTV2,webview://https://tv.cctv.com/live/cctv2/
+CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
+
 
 HOT&NewTV&BEST,#genre#
 Hot风尚音乐,http://192.168.68.2:50001/2000000004000000004/hnbblive/index.m3u8$2.5M720_湖南bblive
