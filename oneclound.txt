@@ -46,7 +46,7 @@ CCTV17,http://192.168.68.2:35455/gaoma/cctv17.m3u8#http://192.168.68.2:35455/itv
 CGTN,http://192.168.68.2:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
 CGTNen,http://192.168.68.2:35455/gaoma/cgtnen.m3u8#https://0472.org/hls/cgtn.m3u8
 CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
-
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 CHC高清电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCGaoQingDianYing
 CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
@@ -136,6 +136,7 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 FTVUHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 晴彩青少,http://192.168.68.2:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
 地方节目,#genre#
 
@@ -168,6 +169,8 @@ FTVUHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defau
 乐游,http://192.168.68.2:35455/itv/5000000011000031112.m3u8?cdn=bestzb#http://192.168.68.2:50001/5000000011000031112/bestzb/index.m3u8#http://192.168.68.2:50001/2000000002000000092/hnbblive/index.m3u8#http://192.168.68.2:50001/5000000006000040025/bestzb/index.m3u8#http://192.168.68.2:50001/2000000002000000059/hnbblive/index.m3u8
 魅力足球,http://192.168.68.2:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 七彩戏剧,http://192.168.68.2:35455/itv/5000000011000031116.m3u8?cdn=bestzb
+劲爆体育,http://192.168.68.2:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+金色学堂,http://192.168.68.2:35455/itv/5000000010000026105.m3u8?cdn=bestzb
 生活时尚,http://192.168.68.2:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 漫游世界,http://192.168.68.2:50001/2000000004000000017/hnbblive/index.m3u8$2.5M720_湖南bblive#http://192.168.68.2:50001/6000000003000028434/wasusyt/index.m3u8$2.5M720_华数
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?#http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -474,7 +477,7 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy#https://www.freetv.top/migu/6
 CHC影谜电影,http://z.b.bkpcp.top/m.php?id=ymdy
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
-魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
+魅力足球,http://192.168.68.2:35455/itv/5000000011000031207.m3u8?cdn=bestzb#http://z.b.bkpcp.top/m.php?id=mlzq
 
 
 
