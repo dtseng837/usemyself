@@ -31,9 +31,9 @@ CCTV17,http://192.168.68.2:35455/gaoma/cctv17.m3u8#http://192.168.68.2:35455/itv
 第一剧场,http://192.168.68.2:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
 怀旧剧场,http://192.168.68.2:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv
 央视文化精品,http://192.168.68.2:35455/rptv/G_CCTV-WENHUA-CQ.m3u8?license=gitv
-凤凰卫视中文,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰卫视资讯,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰卫视香港,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+凤凰卫视中文,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhchinese5s.m3u8
+凤凰卫视资讯,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8
+凤凰卫视香港,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8
 
 中国教育1台,http://192.168.68.2:35455/itv/5000000002000002652.m3u8?cdn=bestzb#http://192.168.68.2:50001/1000000002000027253/ystenlive/index.m3u8#http://192.168.68.2:50001/6000000003000018981/wasusyt/index.m3u8
 中国教育2,http://192.168.68.2:50001/2000000003000000047/hnbblive/index.m3u8#http://192.168.68.2:50001/1000000005000266004/ystenlive/index.m3u8#http://192.168.68.2:50001/5000000011000031201/bestzb/index.m3u8
@@ -141,12 +141,12 @@ CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
 CCTV16,http://192.168.68.2:35455/itv/5000000008000023254.m3u8?cdn=bestzb#http://192.168.68.2:35455/gaoma/cctv4k16.m3u8#http://192.168.68.2:35455/gaoma/cctv4k16_10m.m3u8#http://192.168.68.2:6678/CCTV.php?id=cctv16_4k
 CCTV 4k超高清,http://192.168.68.2:35455/gaoma/cctv4k_10m.m3u8#http://192.168.68.2:35455/rptv/G_CCTV-4K-HD.m3u8?license=gitv#http://192.168.68.2:35455/gaoma/cctv4k.m3u8#http://192.168.68.2:6678/CCTV.php?id=cctv4k
 CCTV 8k超高清,http://192.168.68.2:35455/gaoma/cctv8k_36m.m3u8#http://192.168.68.2:35455/gaoma/cctv8k_120m.m3u8#http://192.168.68.2:6678/CCTV.php?id=cctv8k_36m
-CCTV1-4K,http://192.168.68.2:35455/rptv/G_CCTV-1-AVS-4K264.m3u8?license=gitv
-CCTV3-4K,http://192.168.68.2:35455/rptv/G_CCTV-3-AVS-4K264.m3u8?license=gitv
-CCTV5-4K,http://192.168.68.2:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv
-CCTV6-4K,http://192.168.68.2:35455/rptv/G_CCTV-6-AVS-4K264.m3u8?license=gitv
-CCTV8-4K,http://192.168.68.2:35455/rptv/G_CCTV-8-AVS-4K264.m3u8?license=gitv
-CCTV16-4K,http://192.168.68.2:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv
+CCTV1-4K,http://192.168.68.2:35455/rptv/G_CCTV-1-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-1-AVS-4K264.m3u8
+CCTV3-4K,http://192.168.68.2:35455/rptv/G_CCTV-3-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-3-AVS-4K264.m3u8
+CCTV5-4K,http://192.168.68.2:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-5-AVS-4K264.m3u8
+CCTV6-4K,http://192.168.68.2:35455/rptv/G_CCTV-6-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-6-AVS-4K264.m3u8
+CCTV8-4K,http://192.168.68.2:35455/rptv/G_CCTV-8-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-8-AVS-4K264.m3u8
+CCTV16-4K,http://192.168.68.2:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-16-4K.m3u8
 
 欢笑剧场,http://192.168.68.2:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 4KUHD,http://192.168.68.2:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
