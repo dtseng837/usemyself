@@ -36,7 +36,11 @@ CCTV17,http://192.168.68.2:35455/gaoma/cctv17.m3u8#http://192.168.68.2:35455/itv
 凤凰卫视香港,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8
 
 中国教育1台,http://192.168.68.2:35455/itv/5000000002000002652.m3u8?cdn=bestzb#http://192.168.68.2:50001/1000000002000027253/ystenlive/index.m3u8#http://192.168.68.2:50001/6000000003000018981/wasusyt/index.m3u8
-中国教育2,http://192.168.68.2:50001/2000000003000000047/hnbblive/index.m3u8#http://192.168.68.2:50001/1000000005000266004/ystenlive/index.m3u8#http://192.168.68.2:50001/5000000011000031201/bestzb/index.m3u8
+中国教育2台,http://192.168.68.2:50001/2000000003000000047/hnbblive/index.m3u8#http://192.168.68.2:50001/1000000005000266004/ystenlive/index.m3u8#http://192.168.68.2:50001/5000000011000031201/bestzb/index.m3u8
+中国教育2台,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000011000031201&livemode=1&stbId=toShengfen&mode=1&$3M SD
+中国教育2台,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000011000288017&livemode=1&stbId=toShengfen&mode=1&$4M SD
+中国教育2台,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000003000000047&livemode=1&stbId=toShengfen&mode=1&$4M SD
+中国教育2台,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=toShengfen&mode=1&$4M SD
 中国教育4台,http://192.168.68.2:35455/itv/5000000011000031126.m3u8?cdn=bestzb#http://192.168.68.2:50001/1000000005000025333/ystenlive/index.m3u8#http://192.168.68.2:50001/5000000006000012123/bestzb/index.m3u8
 中国天气,http://192.168.68.2:50001/5000000005000031974/bestzb/index.m3u8#http://192.168.68.2:50001/2000000002000000057/hnbblive/index.m3u8
 中华美食,http://192.168.68.2:50001/2000000003000000052/hnbblive/index.m3u8#http://192.168.68.2:50001/1000000005000266015/ystenlive/index.m3u8
@@ -52,6 +56,9 @@ CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:354
 CHC高清电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCGaoQingDianYing
 CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
 1905电影亚洲,http://v4s.xiepeiru.top:1123/iptv/yz/1905y
+CCTV1_原爱都市,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=toShengfen&mode=1&$2M HD
+CCTV1_原爱怀旧,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=toShengfen&mode=1&$2M HD
+CCTV1_原爱经典,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=toShengfen&mode=1&$2M HD
 -------------
 1905电影国际,http://v4s.xiepeiru.top:1123/iptv/gj/1905g
 北京IPTV淘电影,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTVTaoDianYing
@@ -67,6 +74,10 @@ CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
 广东卫视,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 广东卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 深圳卫视,http://192.168.68.2:35455/itv/5000000004000007410.m3u8?cdn=bestzb#http://192.168.68.2:35455/itv/6000000001000002116.m3u8?cdn=wasusyt#http://192.168.68.2:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+深圳卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+深圳卫视,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+深圳卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+
 广西卫视,http://192.168.68.2:35455/itv/5000000011000031118.m3u8?cdn=bestzb#http://192.168.68.2:50001/5000000011000031118/bestzb/index.m3u8
 安徽卫视,http://192.168.68.2:35455/itv/1000000001000030159.m3u8?cdn=ystenlive#http://192.168.68.2:35455/itv/6000000001000009954.m3u8?cdn=wasusyt#http://192.168.68.2:35455/itv/1000000005000265025.m3u8?cdn=ystenlive#http://192.168.68.2:50001/6000000001000009954/wasusyt/index.m3u8
 北京纪实科教,http://192.168.68.2:35455/itv/1000000001000001910.m3u8?cdn=ystenlive#http://192.168.68.2:35455/itv/1000000005000265020.m3u8?cdn=ystenlive#http://192.168.68.2:50001/1000000001000001910/ystenlive/index.m3u8#http://192.168.68.2:50001/5000000011000031204/bestzb/index.m3u8#http://192.168.68.2:50001/2000000002000000065/hnbblive/index.m3u8
@@ -75,7 +86,9 @@ CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
 北京卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 北京卫视,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 北京卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-
+天津卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+天津卫视,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+天津卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 天津卫视,http://192.168.68.2:35455/itv/5000000004000006827.m3u8?cdn=bestzb#http://192.168.68.2:35455/itv/6000000001000009186.m3u8?cdn=wasusyt#http://192.168.68.2:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
 重庆卫视,http://192.168.68.2:35455/itv/1000000001000001096.m3u8?cdn=ystenlive#http://192.168.68.2:35455/itv/1000000005000265017.m3u8?cdn=ystenlive#http://192.168.68.2:50001/1000000001000001096/ystenlive/index.m3u8#http://192.168.68.2:50001/5000000004000025797/bestzb/index.m3u8#http://192.168.68.2:50001/1000000005000265017/ystenlive/index.m3u8#http://192.168.68.2:50001/1000000002000018937/ystenlive/index.m3u8
 东南卫视,http://192.168.68.2:35455/itv/5000000004000010584.m3u8?cdn=bestzb#http://192.168.68.2:35455/itv/1000000005000265033.m3u8?cdn=ystenlive#http://192.168.68.2:50001/5000000004000010584/bestzb/index.m3u8#http://192.168.68.2:50001/1000000005000265033/ystenlive/index.m3u8
@@ -101,8 +114,6 @@ CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
 江苏卫视,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 江苏卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 
-
-
 江西卫视,http://192.168.68.2:50001/1000000006000268001/ystenlive/index.m3u8#http://192.168.68.2:35455/itv/1000000006000268001.m3u8?cdn=ystenlive#http://192.168.68.2:50001/5000000004000011210/bestzb/index.m3u8#http://192.168.68.2:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
 辽宁卫视,http://192.168.68.2:35455/itv/5000000004000011671.m3u8?cdn=bestzb#http://192.168.68.2:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
 云南卫视,http://192.168.68.2:35455/itv/5000000011000031120.m3u8?cdn=bestzb#http://192.168.68.2:50001/1000000002000024694/ystenlive/index.m3u8#http://192.168.68.2:50001/5000000006000040019/bestzb/index.m3u8#http://192.168.68.2:50001/5000000011000031120/bestzb/index.m3u8
@@ -120,7 +131,9 @@ CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
 东方卫视,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000001000003639&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 东方卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 
-
+山东卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+山东卫视,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+山东卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 上海ICS外语,http://192.168.68.2:35455/itv/5000000010000030951.m3u8?cdn=bestzb#http://192.168.68.2:50001/2000000002000000001/hnbblive/index.m3u8
 上海第一财经,http://192.168.68.2:35455/itv/5000000010000027146.m3u8?cdn=bestzb#http://192.168.68.2:50001/2000000002000000004/hnbblive/index.m3u8
 上海东方财经,http://192.168.68.2:35455/itv/5000000007000010003.m3u8?cdn=bestzb#http://192.168.68.2:50001/2000000002000000090/hnbblive/index.m3u8
@@ -136,6 +149,68 @@ CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing
 漫游世界,http://192.168.68.2:50001/2000000004000000017/hnbblive/index.m3u8#http://192.168.68.2:50001/6000000003000028434/wasusyt/index.m3u8
 中华美食,http://192.168.68.2:50001/2000000003000000052/hnbblive/index.m3u8#http://192.168.68.2:50001/1000000005000266015/ystenlive/index.m3u8
 
+安徽卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+安徽卫视,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+安徽卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+江西卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+江西卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+
+黑龙江卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+黑龙江卫视,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000001000016510&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+黑龙江卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+四川卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+贵州卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+
+湖北卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+湖北卫视,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+湖北卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+辽宁卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+辽宁卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+广西卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+
+重庆卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+重庆卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+东南卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+吉林卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+海南卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+云南卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+厦门卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=toShengfen&mode=1&$4M SD
+河南卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+河北卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+陕西卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=toShengfen&mode=1&$4M SD
+陕西卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=toShengfen&mode=1&$4M SD
+山西卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=toShengfen&mode=1&$4M SD
+甘肃卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+宁夏卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=toShengfen&mode=1&$4M SD
+青海卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+青海卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+
+西藏卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=toShengfen&mode=1&$4M SD
+新疆卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=toShengfen&mode=1&$4M SD
+新疆卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=toShengfen&mode=1&$4M SD
+内蒙古卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=toShengfen&mode=1&$4M SD
+三沙卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+农林卫视,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=toShengfen&mode=1&$4M SD
+农林卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=toShengfen&mode=1&$4M SD
+延边卫视,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=toShengfen&mode=1&$4M SD
+延边卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=toShengfen&mode=1&$4M SD
+兵团卫视,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=toShengfen&mode=1&$4M SD
+兵团卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=toShengfen&mode=1&$4M SD
+山东教育卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=toShengfen&mode=1&$4M SD
+康巴卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000005000266002&livemode=1&stbId=toShengfen&mode=1&$4M SD
+安多卫视,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000005000266001&livemode=1&stbId=toShengfen&mode=1&$4M SD
+卡酷少儿,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+金鹰卡通,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+金鹰卡通,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=toShengfen&mode=1&$4M SD
+金鹰卡通,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=5201381050640253101&livemode=1&stbId=toShengfen&mode=1&$2M SD
+优漫卡通,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=toShengfen&mode=1&$4M SD
+哈哈炫动,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+哈哈炫动,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+哈哈炫动,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=toShengfen&mode=1&$4M SD
+嘉佳卡通,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=toShengfen&mode=1&$4M SD
+
+
+
 4K&8K,#genre#
 
 CCTV16,http://192.168.68.2:35455/itv/5000000008000023254.m3u8?cdn=bestzb#http://192.168.68.2:35455/gaoma/cctv4k16.m3u8#http://192.168.68.2:35455/gaoma/cctv4k16_10m.m3u8#http://192.168.68.2:6678/CCTV.php?id=cctv16_4k
@@ -149,6 +224,8 @@ CCTV8-4K,http://192.168.68.2:35455/rptv/G_CCTV-8-AVS-4K264.m3u8?license=gitv#htt
 CCTV16-4K,http://192.168.68.2:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-16-4K.m3u8
 
 欢笑剧场,http://192.168.68.2:35455/itv/5000000007000010001.m3u8?cdn=bestzb
+欢笑剧场,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=toShengfen&mode=1&$12M UHD HEVC
+
 4KUHD,http://192.168.68.2:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 华数4K,http://192.168.68.2:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 华数4K,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=toShengfen&mode=1&$16M UHD
@@ -167,7 +244,7 @@ FTVUHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defau
 
 地方节目,#genre#
 
-广东珠江,http://192.168.68.2:50001/2000000003000000033/hnbblive/index.m3u8#http://192.168.68.2:50001/1000000004000011655/ystenlive/index.m3u8
+广东珠江,http://192.168.68.2:50001/2000000003000000033/hnbblive/index.m3u8#http://192.168.68.2:50001/1000000004000011655/ystenlive/index.m3u8#http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=toShengfen&mode=1&$3M HD#http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=toShengfen&mode=1&$3M HD
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 大湾区卫视,http://192.168.68.2:50001/2000000003000000045/hnbblive/index.m3u8#http://192.168.68.2:50001/1000000002000011619/ystenlive/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
@@ -380,7 +457,35 @@ IHOT爱都市,http://192.168.68.2:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
 IHOT爱怀旧,http://192.168.68.2:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
 IHOT爱经典,http://192.168.68.2:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
 IHOT爱科幻,http://192.168.68.2:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
-IHOT爱科学,http://192.168.68.2:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
+IHOT爱科学,http://192.168.68.2:35455/itv/6000000006000160630.m3u8?cdn=wasusyt#http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=toShengfen&mode=1&$8M FHD#http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱历史,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱历史,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱旅行,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱旅行,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱体育,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱体育,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱赛车,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱赛车,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱浪漫,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱浪漫,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱奇谈,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱奇谈,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱动漫,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱动漫,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱谍战,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱谍战,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱科幻,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱科幻,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱喜剧,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱喜剧,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱悬疑,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱悬疑,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱院线,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱院线,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱玩具,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱玩具,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱幼教,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+爱幼教,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 IHOT爱浪漫,http://192.168.68.2:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
 IHOT爱历史,http://192.168.68.2:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
 IHOT爱旅行,http://192.168.68.2:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
@@ -403,7 +508,7 @@ NEWTV潮妈辣婆,http://192.168.68.2:35455/itv/2000000003000000018.m3u8?cdn=hnb
 NEWTV东北热剧,http://192.168.68.2:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
 NEWTV动作电影,http://192.168.68.2:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
 NEWTV古装剧场,http://192.168.68.2:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
-NEWTV黑莓电影,http://192.168.68.2:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+NEWTV黑莓电影,http://192.168.68.2:35455/itv/1000000004000019624.m3u8?cdn=ystenlive#http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=toShengfen&mode=1&$4M FHD#http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=toShengfen&mode=1&$4M FHD#http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 NEWTV黑莓动画,http://192.168.68.2:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 NEWTV欢乐剧场,http://192.168.68.2:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
 NEWTV家庭剧场,http://192.168.68.2:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
