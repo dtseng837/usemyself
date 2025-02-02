@@ -52,7 +52,7 @@ CGTN,http://192.168.68.2:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
 CGTNen,http://192.168.68.2:35455/gaoma/cgtnen.m3u8#https://0472.org/hls/cgtn.m3u8#http://192.168.68.2:6678/CCTV.php?id=cgtnen
 CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:35455/itv/7114647837765104058.m3u8?cdn=hnbblive#http://192.168.68.2:6678/CCTV.php?id=cgtndoc
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd#http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 CHC高清电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCGaoQingDianYing
 CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing#http://eastscreen.tv/ooooo.php?id=chcdz
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
@@ -63,7 +63,19 @@ CCTV1_原爱都市,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid
 CCTV1_原爱怀旧,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=toShengfen&mode=1&$2M HD
 CCTV1_原爱经典,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=toShengfen&mode=1&$2M HD
 -------------
-1905电影国际,http://v4s.xiepeiru.top:1123/iptv/gj/1905g
+1905电影,http://v4s.xiepeiru.top:1123/iptv/gj/1905g#http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy2
+电影2,http://39.134.65.6:80/wh7f454c46tw1108113188_1233049823/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+电影4,http://zby.xjqxz.top/hlwdy1/live.m3u8
+电影5,http://zby.xjqxz.top/zh09/live.m3u8
+CIBN情感影院,http://zby.xjqxz.top/zh09/live.m3u8
+CIBN动作影院,http://zby.xjqxz.top/zh04/live.m3u8
+經典電影院1,http://zby.xjqxz.top/zh02/live.m3u8
+經典電影院2,http://zby.xjqxz.top/zh03/live.m3u8
+經典電影院3,http://zby.xjqxz.top/zh08/live.m3u8
+经典回顾,http://itv.91tvb.cc:80/2024/huya.php?id=21059529
+红色经典,http://itv.91tvb.cc:80/2024/huya.php?id=11602076
+
 北京IPTV淘电影,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTVTaoDianYing
 北京IPTV4K,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTV4k
 爱上4K,http://v4s.xiepeiru.top:1123/iptv/zx/AiShang4k
@@ -249,7 +261,11 @@ FTVUHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defau
 
 广东珠江,http://192.168.68.2:50001/2000000003000000033/hnbblive/index.m3u8#http://192.168.68.2:50001/1000000004000011655/ystenlive/index.m3u8#http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=toShengfen&mode=1&$3M HD#http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=toShengfen&mode=1&$3M HD
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+
 大湾区卫视,http://192.168.68.2:50001/2000000003000000045/hnbblive/index.m3u8#http://192.168.68.2:50001/1000000002000011619/ystenlive/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 嘉佳卡通,http://192.168.68.2:50001/1000000002000025964/ystenlive/index.m3u8#http://192.168.68.2:50001/6000000003000025508/wasusyt/index.m3u8
 
@@ -312,8 +328,6 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?
-余姚新闻综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8#https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
