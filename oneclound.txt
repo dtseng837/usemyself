@@ -40,6 +40,21 @@ CCTV17,http://192.168.68.2:35455/gaoma/cctv17.m3u8#http://192.168.68.2:35455/itv
 CGTN,http://192.168.68.2:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
 CGTNen,http://192.168.68.2:35455/gaoma/cgtnen.m3u8#https://0472.org/hls/cgtn.m3u8#http://192.168.68.2:6678/CCTV.php?id=cgtnen
 CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:35455/itv/7114647837765104058.m3u8?cdn=hnbblive#http://192.168.68.2:6678/CCTV.php?id=cgtndoc
+世界地理,http://192.168.68.2:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
+风云剧场,http://192.168.68.2:35455/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv
+风云足球,http://192.168.68.2:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
+风云音乐,http://192.168.68.2:35455/rptv/G_FENGYUNYY-CQ.m3u8?license=gitv
+兵器科技,http://192.168.68.2:35455/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv
+央视台球,http://192.168.68.2:35455/rptv/G_TAIQIU-CQ.m3u8?license=gitv
+高尔夫网球,http://192.168.68.2:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv
+电视指南,http://192.168.68.2:35455/rptv/G_DIANSHIZN-CQ.m3u8?license=gitv
+第一剧场,http://192.168.68.2:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
+怀旧剧场,http://192.168.68.2:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv
+央视文化精品,http://192.168.68.2:35455/rptv/G_CCTV-WENHUA-CQ.m3u8?license=gitv
+凤凰卫视中文,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhchinese5s.m3u8
+凤凰卫视资讯,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8
+凤凰卫视香港,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8
+
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd#http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 CHC高清电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCGaoQingDianYing
@@ -157,12 +172,12 @@ CCTV1_原爱经典,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid
 CCTV16,http://192.168.68.2:35455/itv/5000000008000023254.m3u8?cdn=bestzb#http://192.168.68.2:35455/gaoma/cctv4k16.m3u8#http://192.168.68.2:35455/gaoma/cctv4k16_10m.m3u8#http://192.168.68.2:6678/CCTV.php?id=cctv16_4k
 CCTV 4k超高清,http://192.168.68.2:35455/gaoma/cctv4k_10m.m3u8#http://192.168.68.2:35455/gaoma/cctv4k.m3u8#http://192.168.68.2:6678/CCTV.php?id=cctv4k
 CCTV 8k超高清,http://192.168.68.2:35455/gaoma/cctv8k_36m.m3u8#http://192.168.68.2:35455/gaoma/cctv8k_120m.m3u8#http://192.168.68.2:6678/CCTV.php?id=cctv8k_36m
-CCTV1-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-1-AVS-4K264.m3u8
-CCTV3-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-3-AVS-4K264.m3u8
-CCTV5-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-5-AVS-4K264.m3u8
-CCTV6-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-6-AVS-4K264.m3u8
-CCTV8-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-8-AVS-4K264.m3u8
-CCTV16-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-16-4K.m3u8
+CCTV1-4K,http://192.168.68.2:35455/rptv/G_CCTV-1-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-1-AVS-4K264.m3u8
+CCTV3-4K,http://192.168.68.2:35455/rptv/G_CCTV-3-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-3-AVS-4K264.m3u8
+CCTV5-4K,http://192.168.68.2:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-5-AVS-4K264.m3u8
+CCTV6-4K,http://192.168.68.2:35455/rptv/G_CCTV-6-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-6-AVS-4K264.m3u8
+CCTV8-4K,http://192.168.68.2:35455/rptv/G_CCTV-8-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-8-AVS-4K264.m3u8
+CCTV16-4K,http://192.168.68.2:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-16-4K.m3u8
 欢笑剧场,http://192.168.68.2:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 欢笑剧场,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=toShengfen&mode=1&$12M UHD HEVC
 4KUHD,http://192.168.68.2:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
@@ -170,6 +185,7 @@ CCTV16-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-16-4K.m3u8
 华数4K,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=toShengfen&mode=1&$16M UHD
 华数4K,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=toShengfen&mode=1&$16M UHD
 纯享4K,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=toShengfen&mode=1&$16M UHD
+纯享4K-2,http://192.168.68.2:35455/rptv/HD-20M-2160P-chunxiang4k.m3u8?license=cntv
 咪咕4K,http://192.168.68.2:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
