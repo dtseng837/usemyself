@@ -584,157 +584,109 @@ CHC影谜电影,http://z.b.bkpcp.top/m.php?id=ymdy
 
 
 4GTV,#genre#
-龍華經典台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn21#http://192.168.68.2:5000/litv/litv-longturn21
-龍華電影台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn03#http://192.168.68.2:5000/litv/litv-longturn03
-亞洲旅遊台,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv076#http://192.168.68.2:5000/litv/litv-longturn17
-龍華戲劇台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn18#http://192.168.68.2:5000/litv/litv-longturn18
-台灣戲劇台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn22#http://192.168.68.2:5000/litv/litv-longturn22
-龍華偶像台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn12#http://192.168.68.2:5000/litv/litv-longturn12
-龍華日韓台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn11#http://192.168.68.2:5000/litv/litv-longturn11
-ELTV生活英語台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn20
-靖天電影台,http://192.168.68.2:5000/litv/4gtv-4gtv061
-靖洋戲劇台,http://192.168.68.2:5000/litv/4gtv-4gtv045
-影迷數位紀實台,http://192.168.68.2:5000/4gtv/212
-影迷數位電影台,http://192.168.68.2:5000/litv/4gtv-4gtv011
-AMC 電影台,http://192.168.68.2:5000/litv/4gtv-4gtv017
-CatchPlay 電影台,http://192.168.68.2:5000/litv/4gtv-4gtv076
-采昌影劇台,http://192.168.68.2:5000/litv/4gtv-4gtv049
+哆啦Ａ夢台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii22
+龍華經典台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn21
+Golden 強片台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii70
+龍華電影台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn03
+周星馳台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii73
+歐飛電影台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii74
+歐飛喜劇電影台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii75
 
-中天新聞台,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv009#http://192.168.68.2:5000/litv/4gtv-4gtv009
-台視,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv066#http://192.168.68.2:5000/litv/4gtv-4gtv066
-中視,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv040#http://192.168.68.2:5000/litv/4gtv-4gtv040
-華視,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv041#http://192.168.68.2:5000/litv/4gtv-4gtv041
-華視新聞,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv052#http://192.168.68.2:5000/litv/4gtv-4gtv052
-三立新聞iNEWS,http://192.168.68.2:50002/index.m3u8?pid=iNEWS
-寰宇財經台,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv158#http://192.168.68.2:5000/litv/litv-longturn23
-台視新聞,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv051
-中視新聞,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv074#http://192.168.68.2:5000/litv/4gtv-4gtv074
-寰宇新聞台灣台,http://192.168.68.2:50002/index.m3u8?pid=4gtv-4gtv156#http://192.168.68.2:5000/litv/litv-longturn15
-寰宇新聞台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn14#http://192.168.68.2:5000/litv/litv-longturn14
-好消息,http://192.168.68.2:50002/index.m3u8?pid=litv-ftv16#http://192.168.68.2:5000/litv/litv-ftv16
-Smart知識台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn19
-Focus探索新知台,http://192.168.68.2:50002/index.m3u8?pid=ofiii82
-龍華卡通台,http://192.168.68.2:50002/index.m3u8?pid=litv-longturn01#http://192.168.68.2:5000/litv/litv-longturn01
-民視,http://192.168.68.2:5000/litv/4gtv-4gtv002
-民視第一台,http://192.168.68.2:5000/litv/4gtv-4gtv003
-民視新聞台,http://192.168.68.2:5000/litv/litv-ftv13
-民視台灣台,http://192.168.68.2:5000/litv/4gtv-4gtv001
-民視影劇台,http://192.168.68.2:5000/litv/litv-ftv09
-民視旅遊台,http://192.168.68.2:5000/litv/litv-ftv07
-民視綜藝台,http://192.168.68.2:5000/litv/4gtv-4gtv004
-中視經典台,http://192.168.68.2:5000/litv/4gtv-4gtv080
-中視菁采台,http://192.168.68.2:5000/litv/4gtv-4gtv064
-中天亞洲台,http://192.168.68.2:5000/litv/4gtv-4gtv109
-靖天綜合台,http://192.168.68.2:5000/litv/4gtv-4gtv046
-靖天國際台,http://192.168.68.2:5000/litv/4gtv-4gtv063
-靖天戲劇台,http://192.168.68.2:5000/litv/4gtv-4gtv058
-靖天日本台,http://192.168.68.2:5000/litv/4gtv-4gtv047
-靖天映畫台,http://192.168.68.2:5000/litv/4gtv-4gtv055
-靖天卡通台,http://192.168.68.2:5000/litv/4gtv-4gtv044
-靖天育樂台,http://192.168.68.2:5000/litv/4gtv-4gtv062
-靖天資訊台,http://192.168.68.2:5000/litv/4gtv-4gtv065
-靖天歡樂台,http://192.168.68.2:5000/litv/4gtv-4gtv054
-靖洋卡通 Nice Bingo,http://192.168.68.2:5000/litv/4gtv-4gtv057
-TVBS,http://192.168.68.2:5000/litv/4gtv-4gtv073
-TVBS 新聞台,http://192.168.68.2:5000/litv/4gtv-4gtv072
-TVBS 綜藝台,http://192.168.68.2:5000/4gtv/284
-TVBS 歡樂台,http://192.168.68.2:5000/litv/4gtv-4gtv068
-TVBS 精采台,http://192.168.68.2:5000/litv/4gtv-4gtv067
-TVBS 台劇台,http://192.168.68.2:5000/4gtv/285
-八大精彩台,http://192.168.68.2:5000/litv/4gtv-4gtv034
-八大綜藝台,http://192.168.68.2:5000/litv/4gtv-4gtv039
-三立綜合台,http://192.168.68.2:5000/4gtv/169
-三立 iNEWS,http://192.168.68.2:5000/4gtv/229
-台視新聞台,http://192.168.68.2:5000/litv/4gtv-4gtv051
-台視財經台,http://192.168.68.2:5000/litv/4gtv-4gtv056
-博斯運動一台,http://192.168.68.2:5000/litv/litv-longturn07
-博斯運動二台,http://192.168.68.2:5000/litv/litv-longturn08
-博斯無限台,http://192.168.68.2:5000/litv/litv-longturn10
-博斯無限二台,http://192.168.68.2:5000/litv/litv-longturn13
-博斯網球台,http://192.168.68.2:5000/litv/litv-longturn09
-博斯高球台,http://192.168.68.2:5000/litv/litv-longturn05
-博斯高球二台,http://192.168.68.2:5000/litv/litv-longturn06
-博斯魅力台,http://192.168.68.2:5000/litv/litv-longturn04
-ELTA 娛樂台,http://192.168.68.2:5000/litv/4gtv-4gtv070
-ELTA 生活旅遊,http://192.168.68.2:5000/4gtv/237
-ELTV 生活英語,http://192.168.68.2:5000/litv/litv-longturn20
-東森新聞,http://192.168.68.2:5000/litv/4gtv-4gtv152
-東森財經新聞,http://192.168.68.2:5000/litv/4gtv-4gtv153
-非凡新聞台,http://192.168.68.2:5000/litv/4gtv-4gtv010
-非凡商業台,http://192.168.68.2:5000/litv/4gtv-4gtv048
-鏡電視新聞台,http://192.168.68.2:5000/litv/4gtv-4gtv075
-CNBC Asia 財經台,http://192.168.68.2:5000/4gtv/235
-GINX Esports TV,http://192.168.68.2:5000/litv/4gtv-4gtv053
-TechStorm,http://192.168.68.2:5000/4gtv/181
-時尚運動X,http://192.168.68.2:5000/4gtv/277
-智林體育台,http://192.168.68.2:5000/litv/4gtv-4gtv101
-TraceSports,http://192.168.68.2:5000/litv/4gtv-4gtv077
-My Cinema Europe HD 我的歐洲電影,http://192.168.68.2:5000/4gtv/176
-公視戲劇台,http://192.168.68.2:5000/litv/4gtv-4gtv042
-
-戲劇免費看 1台,http://192.168.68.2:5000/4gtv/270
-戲劇免費看 2台,http://192.168.68.2:5000/4gtv/244
-經典電影台,http://192.168.68.2:5000/4gtv/201
-電影免費看 2台,http://192.168.68.2:5000/4gtv/245
-電影原聲台 CMusic,http://192.168.68.2:5000/4gtv/218
-花系列 經典劇場,http://192.168.68.2:5000/4gtv/279
-CinemaWorld,http://192.168.68.2:5000/4gtv/225
-HITS 頻道,http://192.168.68.2:5000/4gtv/186
-Rock Action,http://192.168.68.2:5000/4gtv/180
-Rock Entertainment,http://192.168.68.2:5000/4gtv/275
-金光布袋戲,http://192.168.68.2:5000/4gtv/236
-霹靂布袋戲,http://192.168.68.2:5000/4gtv/301
-DreamWorks 夢工廠動畫,http://192.168.68.2:5000/4gtv/282
-Nickelodeon,http://192.168.68.2:5000/4gtv/185
-Nick Jr. 兒童頻道,http://192.168.68.2:5000/4gtv/219
-i-Fun 動漫台,http://192.168.68.2:5000/litv/litv-ftv15
-兒童卡通台,http://192.168.68.2:5000/4gtv/269
-精選動漫台,http://192.168.68.2:5000/4gtv/204
-經典卡通台,http://192.168.68.2:5000/4gtv/202
-達文西頻道,http://192.168.68.2:5000/litv/4gtv-4gtv018
-MOMO 親子台,http://192.168.68.2:5000/4gtv/231
-LiveABC 互動英語台,http://192.168.68.2:5000/4gtv/188
-Classica 古典樂,http://192.168.68.2:5000/litv/4gtv-4gtv059
-Lifetime 娛樂頻道,http://192.168.68.2:5000/4gtv/217
-MTV Live HD 音樂頻道,http://192.168.68.2:5000/4gtv/213
-Mezzo Live,http://192.168.68.2:5000/litv/4gtv-4gtv083
-豬哥亮歌廳秀,http://192.168.68.2:5000/litv/4gtv-4gtv006
-Trace Urban,http://192.168.68.2:5000/litv/4gtv-4gtv082
-Global Trekker,http://192.168.68.2:5000/4gtv/252
-韓國娛樂台,http://192.168.68.2:5000/litv/4gtv-4gtv016
-LUXE TV,http://192.168.68.2:5000/4gtv/175
-Pet Club TV,http://192.168.68.2:5000/4gtv/182
-TV5MONDE Style,http://192.168.68.2:5000/4gtv/178
-車迷 TV,http://192.168.68.2:5000/4gtv/160
-Love Nature,http://192.168.68.2:5000/4gtv/139
-Fun 探索娛樂台,http://192.168.68.2:5000/4gtv/274
-幸福空間居家台,http://192.168.68.2:5000/4gtv/168
-Arirang TV,http://192.168.68.2:5000/litv/4gtv-4gtv079
-Bloomberg TV,http://192.168.68.2:5000/4gtv/283
-VOA 美國之音,http://192.168.68.2:5000/litv/litv-ftv03
-DW德國之聲,http://192.168.68.2:5000/4gtv/226
-SBN 全球財經台,http://192.168.68.2:5000/4gtv/224
-半島國際新聞台,http://192.168.68.2:5000/litv/litv-ftv10
-第1商業台,http://192.168.68.2:5000/litv/4gtv-4gtv104
-History 歷史頻道,http://192.168.68.2:5000/4gtv/214
-CI 罪案偵查頻道,http://192.168.68.2:5000/4gtv/215
-Smart 知識台,http://192.168.68.2:5000/litv/litv-longturn19
-視納華仁紀實頻道,http://192.168.68.2:5000/litv/4gtv-4gtv013
-原住民族電視台,http://192.168.68.2:5000/4gtv/273
-客家電視台,http://192.168.68.2:5000/litv/4gtv-4gtv043
-滾動力 Rollor,http://192.168.68.2:5000/4gtv/249
-好消息2台,http://192.168.68.2:5000/litv/litv-ftv17
-大愛電視,http://192.168.68.2:5000/4gtv/209
-大愛電視2,http://192.168.68.2:5000/4gtv/230
-國會頻道1,http://192.168.68.2:5000/litv/4gtv-4gtv084
-國會頻道2,http://192.168.68.2:5000/litv/4gtv-4gtv085
-東森購物一台,http://192.168.68.2:5000/4gtv/173
-東森購物二台,http://192.168.68.2:5000/4gtv/174
-東森購物三台,http://192.168.68.2:5000/4gtv/287
-東森購物四台,http://192.168.68.2:5000/4gtv/286
+公視金獎台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii13
+經典劇場,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii38
+龍華戲劇台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn18
+台灣戲劇台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn22
+龍華偶像台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn12
+龍華日韓台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn11
+Focus風采戲劇台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii1048
 
 
+台視,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv066
+中視,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv040
+華視,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv041
+好消息,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-ftv16
+哆啦Ａ夢台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii22
+亞洲旅遊台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv076
+龍華戲劇台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn18
+台灣戲劇台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn22
+東森購物1台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv102
+龍華偶像台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn12
+龍華日韓台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn11
+華視新聞,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv052
+三立新聞iNEWS,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=iNEWS
+寰宇財經台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv158
+台視新聞,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv051
+中視新聞,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv074
+中天新聞台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv009
+寰宇新聞台灣台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv156
+寰宇新聞台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn14
+龍華經典台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn21
+龍華電影台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn03
+去有風的地方,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii116
+綜藝玩很大,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii130
+全民星攻略,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii131
 
+Yes娛樂,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii47
+掏掏新聞,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii50
+柯文哲政治風波,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii51
+華視新聞,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv052
+倪珍播新聞,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=nnews-zh
+三立新聞iNEWS,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=iNEWS
+國際大小事,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii55
+寰宇財經台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv158
+台灣驕傲！感動不間斷,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii58
+台視新聞,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv051
+中視新聞,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv074
+中天新聞台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv009
+寰宇新聞台灣台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv156
+寰宇新聞台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn14
+第1財經,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii64
+第1商業台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv104
+國會頻道1台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv084
+國會頻道2台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv085
+倪珍英語新聞,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=nnews-en
+大新聞大爆卦,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii201
+新聞大白話,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii202
+文茜的世界周報,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii203
+寰宇全視界,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii204
+文茜的世界財經周報,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii205
+環球大戰線,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii206
+少康戰情室,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii207
+國民大會,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii208
+
+台視,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv066
+中視,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv040
+華視,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv041
+好消息2台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-ftv17
+好消息,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-ftv16
+ELTV生活英語台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn20
+亞洲旅遊台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv076
+中天亞洲精采台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii36
+Smart知識台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=litv-longturn19
+東森購物1台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv102
+東森購物2台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=4gtv-4gtv103
+Focus探索新知台,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii82
+鄉民大學問,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii83
+社會NOW什麼,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii85
+倪珍報星座,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii86
+《錦繡安寧》預告花絮,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii88
+泰可愛旋風,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii89
+演唱會直擊,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii91
+健康問良醫,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii92
+Freeman @台灣,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii95
+饕客揪愛吃,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii96
+人氣動漫預告,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii97
+銀髮聚樂部,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii99
+生命的贏家,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii192
+電動車時代,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii215
+SiCAR愛車酷,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii216
+狂人日誌,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii217
+脖子解說 Mr. Neck,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii218
+紓壓雷雨聲,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii250
+療癒下雨聲,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii251
+放鬆的爵士午後,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii252
+野外燒柴火聲,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii253
+夏日陽光海浪聲,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii254
 
 咪咕视频,#genre#
 
