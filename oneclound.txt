@@ -55,11 +55,10 @@ CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:354
 凤凰卫视资讯,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8
 凤凰卫视香港,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8
 
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd#http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+重温经典,http://192.168.68.2:35455/bptv/10000100000000050000000003887494.m3u8#https://gdcucc.v1.mk/gdcucc/cwjd.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd#http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 CHC高清电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCGaoQingDianYing
-CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing#http://eastscreen.tv/ooooo.php?id=chcdz
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
+CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8#http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing#http://eastscreen.tv/ooooo.php?id=chcdz
+CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8#http://eastscreen.tv/ooooo.php?id=chcjt
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 1905电影亚洲,http://v4s.xiepeiru.top:1123/iptv/yz/1905y
 CCTV1_原爱都市,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=toShengfen&mode=1&$2M HD
@@ -71,8 +70,8 @@ CCTV1_原爱经典,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid
 经典回顾,http://itv.91tvb.cc:80/2024/huya.php?id=21059529
 红色经典,http://itv.91tvb.cc:80/2024/huya.php?id=11602076
 
-北京IPTV淘电影,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTVTaoDianYing
-北京IPTV4K,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTV4k
+北京IPTV淘电影,http://192.168.68.2:35455/bptv/10000100000000050000000003887498.m3u8#http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTVTaoDianYing
+北京IPTV4K,http://192.168.68.2:35455/bptv/10000100000000050000000003887500.m3u8#http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTV4k
 爱上4K,http://v4s.xiepeiru.top:1123/iptv/zx/AiShang4k
 北京IPTV淘剧场,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTVTaoJuChang
 ----------------
@@ -193,7 +192,7 @@ FTVUHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defau
 晴彩青少,http://192.168.68.2:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-
+北京IPTV4K，http://192.168.68.2:35455/bptv/10000100000000050000000003887500.m3u8
 地方节目,#genre#
 
 广东珠江,http://192.168.68.2:50001/TVOD/2000000003000000033/hnbblive/index.m3u8#http://192.168.68.2:50001/TVOD/1000000004000011655/ystenlive/index.m3u8#http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=toShengfen&mode=1&$3M HD#http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=toShengfen&mode=1&$3M HD
@@ -226,6 +225,17 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
+BTV-重温经典，http://192.168.68.2:35455/bptv/10000100000000050000000003887494.m3u8
+萌宠TV，http://192.168.68.2:35455/bptv/10000100000000050000000003887495.m3u8
+淘BABY，http://192.168.68.2:35455/bptv/10000100000000050000000003887496.m3u8
+淘剧场，http://192.168.68.2:35455/bptv/10000100000000050000000003887497.m3u8
+淘电影，http://192.168.68.2:35455/bptv/10000100000000050000000003887498.m3u8
+淘娱乐，http://192.168.68.2:35455/bptv/10000100000000050000000003887499.m3u8
+北京IPTV4K，http://192.168.68.2:35455/bptv/10000100000000050000000003887500.m3u8
+北京体育休闲，http://192.168.68.2:35455/bptv/10000100000000050000000003870779.m3u8
+北京新闻，http://192.168.68.2:35455/bptv/10000100000000050000000003870780.m3u8
+
+
 上海ICS外语,http://192.168.68.2:35455/itv/5000000010000030951.m3u8?cdn=bestzb
 上海第一财经,http://192.168.68.2:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 上海东方财经,http://192.168.68.2:35455/itv/5000000007000010003.m3u8?cdn=bestzb
