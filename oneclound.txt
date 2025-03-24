@@ -40,20 +40,10 @@ CCTV17,http://192.168.68.2:35455/gaoma/cctv17.m3u8#http://192.168.68.2:35455/itv
 CGTN,http://192.168.68.2:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
 CGTNen,http://192.168.68.2:35455/gaoma/cgtnen.m3u8#https://0472.org/hls/cgtn.m3u8#http://192.168.68.2:6678/CCTV.php?id=cgtnen
 CGTN-记录,http://192.168.68.2:35455/gaoma/cgtndoc.m3u8#http://192.168.68.2:35455/itv/7114647837765104058.m3u8?cdn=hnbblive#http://192.168.68.2:6678/CCTV.php?id=cgtndoc
-世界地理,http://192.168.68.2:35455/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
-风云剧场,http://192.168.68.2:35455/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv
-风云足球,http://192.168.68.2:35455/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
-风云音乐,http://192.168.68.2:35455/rptv/G_FENGYUNYY-CQ.m3u8?license=gitv
-兵器科技,http://192.168.68.2:35455/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv
-央视台球,http://192.168.68.2:35455/rptv/G_TAIQIU-CQ.m3u8?license=gitv
-高尔夫网球,http://192.168.68.2:35455/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv
-电视指南,http://192.168.68.2:35455/rptv/G_DIANSHIZN-CQ.m3u8?license=gitv
-第一剧场,http://192.168.68.2:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
-怀旧剧场,http://192.168.68.2:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv
-央视文化精品,http://192.168.68.2:35455/rptv/G_CCTV-WENHUA-CQ.m3u8?license=gitv
-凤凰卫视中文,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhchinese5s.m3u8
-凤凰卫视资讯,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8
-凤凰卫视香港,http://192.168.68.2:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8
+
+凤凰卫视中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhchinese5s.m3u8
+凤凰卫视资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8
+凤凰卫视香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8
 
 重温经典,http://192.168.68.2:35455/bptv/10000100000000050000000003887494.m3u8#https://gdcucc.v1.mk/gdcucc/cwjd.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd#http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 CHC高清电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCGaoQingDianYing
@@ -180,12 +170,12 @@ CCTV 8k超高清,http://192.168.68.2:35455/gaoma/cctv8k_36m.m3u8#http://192.168.
 北京IPTV4K，http://192.168.68.2:35455/bptv/10000100000000050000000003887500.m3u8
 北京体育休闲-4K,http://192.168.68.2:35455/bptv/10000100000000050000000004270525.m3u8
 北京体育休闲-4K-HLG,http://192.168.68.2:35455/bptv/10000100000000050000000004270524.m3u8
-CCTV1-4K,http://192.168.68.2:35455/rptv/G_CCTV-1-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-1-AVS-4K264.m3u8
-CCTV3-4K,http://192.168.68.2:35455/rptv/G_CCTV-3-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-3-AVS-4K264.m3u8
-CCTV5-4K,http://192.168.68.2:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-5-AVS-4K264.m3u8
-CCTV6-4K,http://192.168.68.2:35455/rptv/G_CCTV-6-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-6-AVS-4K264.m3u8
-CCTV8-4K,http://192.168.68.2:35455/rptv/G_CCTV-8-AVS-4K264.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-8-AVS-4K264.m3u8
-CCTV16-4K,http://192.168.68.2:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv#http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-16-4K.m3u8
+CCTV1-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-1-AVS-4K264.m3u8
+CCTV3-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-3-AVS-4K264.m3u8
+CCTV5-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-5-AVS-4K264.m3u8
+CCTV6-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-6-AVS-4K264.m3u8
+CCTV8-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-8-AVS-4K264.m3u8
+CCTV16-4K,http://192.168.68.2:6678/kinsum.php?p=gitv&id=G_CCTV-16-4K.m3u8
 欢笑剧场,http://192.168.68.2:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 欢笑剧场,http://192.168.68.2:6678/itv.php?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=toShengfen&mode=1&$12M UHD HEVC
 4KUHD,http://192.168.68.2:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
@@ -193,7 +183,6 @@ CCTV16-4K,http://192.168.68.2:35455/rptv/G_CCTV-16-4K.m3u8?license=gitv#http://1
 华数4K,http://192.168.68.2:6678/itv.php?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=toShengfen&mode=1&$16M UHD
 华数4K,http://192.168.68.2:6678/itv.php?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=toShengfen&mode=1&$16M UHD
 纯享4K,http://192.168.68.2:6678/itv.php?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=toShengfen&mode=1&$16M UHD
-纯享4K-2,http://192.168.68.2:35455/rptv/HD-20M-2160P-chunxiang4k.m3u8?license=cntv
 咪咕4K,http://192.168.68.2:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -493,33 +482,6 @@ CNBC,http://192.168.68.2:8000/beesport/CNBC_Live_TV
 Fox Sports 1,http://192.168.68.2:8000/beesport/Fox_Sports_1_Live_TV
 Fox Sports 2,http://192.168.68.2:8000/beesport/Fox_Sports_2_Live_TV
 FOX News,http://192.168.68.2:8000/beesport/FOX_NEWS_Live_TV
-
-网页版,#genre#
-
-CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
-CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
-CCTV4,webview://https://yangshipin.cn/tv/home?pid=600001814
-CCTV5,webview://https://yangshipin.cn/tv/home?pid=600001818
-CCTV5+,webview://https://yangshipin.cn/tv/home?pid=600001817
-CCTV6,webview://https://yangshipin.cn/tv/home?pid=600108442
-CCTV7,webview://https://yangshipin.cn/tv/home?pid=600004092
-CCTV8,webview://https://yangshipin.cn/tv/home?pid=600001803
-CCTV9,webview://https://yangshipin.cn/tv/home?pid=600001803
-CCTV10,webview://https://yangshipin.cn/tv/home?pid=600001805
-CCTV11,webview://https://yangshipin.cn/tv/home?pid=600001806
-CCTV12,webview://https://yangshipin.cn/tv/home?pid=600001807
-CCTV13,webview://https://yangshipin.cn/tv/home?pid=600001811
-CCTV14,webview://https://yangshipin.cn/tv/home?pid=600001809
-CCTV15,webview://https://yangshipin.cn/tv/home?pid=600001815
-CCTV16,webview://https://yangshipin.cn/tv/home?pid=600098637
-CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
-CCTV4欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
-CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/
-风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
-第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
-怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
-北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
-
 
 
 HOT&NewTV&BEST,#genre#
@@ -859,12 +821,11 @@ Yes娛樂,http://192.168.68.2:50002/6c6f6e676c6f6e67/index.m3u8?pid=ofiii47
 
 
 英语频道,#genre#
-BBC,http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 ASC搜索频英,http://61.221.215.25:8800/hls/50/index.m3u8
 Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
-CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 Fox LiveNow,https://jmp2.uk/sam-USBA300024TN.m3u8
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 NBC News Now,https://jmp2.uk/sam-GBBB1500004LG.m3u8
@@ -874,7 +835,6 @@ AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-Africa News,https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -884,8 +844,6 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-ComedyDynamics,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
-BBC Impossible,https://bbc-impossible-1-ca.lg.wurl.tv/playlist.m3u8
 BBC Earth,https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
 History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 TED Conference,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
@@ -899,11 +857,8 @@ Today Allday,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132
 LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Museum TV,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
-Ondemand China,https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 Rakuten Viki,https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-Rakuten Thriller,https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
-Rakuten British Films,https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 Crime Time,https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
 
 春晚现场,#genre#
