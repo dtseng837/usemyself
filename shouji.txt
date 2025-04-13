@@ -9,6 +9,39 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8#http://v4s.xiepeiru.top
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8#http://eastscreen.tv/ooooo.php?id=chcjt
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 1905电影亚洲,http://v4s.xiepeiru.top:1123/iptv/yz/1905y
+动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+翡翠台4K,https://ali.hlspull.yximgs.com/live/ff9217261d3bde90f4e18c61b28015ec.flv
+ASTRO QJ,http://50.7.234.10:8278/Quanjia/playlist.m3u8?tid=mcac9b10b6afcf&ct=11610760692&tsum=858fab6e4ed6bad01b90ef544b12299c
+
+翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台，http://php.jdshipin.com:8880/smt.php?id=jade_twn
+华丽翡翠台，http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河，http://php.jdshipin.com:8880/smt.php?id=Xinhe
+明珠台，http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB Plus，http://php.jdshipin.com:8880/smt.php?id=j2_twn
+无线新闻，http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB娱乐新闻台，http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV，http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix，http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31，http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32，http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+千禧经典台，http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台，http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道，http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典，http://php.jdshipin.com:8880/smt.php?id=Celestial2
+凤凰中文，http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯，http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港，http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+八度空间，http://php.jdshipin.com:8880/smt.php?id=TV8
+Astro AOD，http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC，http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺，http://php.jdsh<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 17H4V19H14V17ZM20 9H4V11H20V9ZM4 15H20V13H4V15ZM4 5V7H20V5H4Z" fill="currentColor"/>
+</svg>ipin.com:8880/smt.php?id=Qiyi
+Astro QJ，http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台，http://php.jdshipin.com:8880/smt.php?id=Huahee
+
 -------------
 1905电影,http://v4s.xiepeiru.top:1123/iptv/gj/1905g#http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy2
