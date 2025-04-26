@@ -26,8 +26,8 @@ CCTV16-4K,http://192.168.68.2:4022/udp/239.11.0.132:1025
 
 #央视
 
-CCTV1高清,http://192.168.68.2:4022/udp/239.10.0.114:1025
-CCTV1FHD,http://192.168.68.2:4022/udp/239.20.0.96:3016
+CCTV1,http://192.168.68.2:4022/udp/239.10.0.114:1025
+CCTV1,http://192.168.68.2:4022/udp/239.20.0.96:3016
 CCTV2,http://192.168.68.2:4022/udp/239.10.0.207:1025
 CCTV3,http://192.168.68.2:4022/udp/239.10.0.101:1025
 CCTV4,http://192.168.68.2:4022/udp/239.10.0.245:1025
@@ -200,6 +200,7 @@ CETV1,http://192.168.68.2:4022/udp/239.10.0.223:1025
 揭阳公共,http://192.168.68.2:4022/udp/239.21.0.92:3708
 
 
+#标清节目
 
 CCTV1,http://192.168.68.2:4022/udp/239.20.0.104:2006
 CCTV2,http://192.168.68.2:4022/udp/239.20.0.197:2192
@@ -270,6 +271,7 @@ CCTV17,http://192.168.68.2:4022/udp/239.20.0.7:3376
 云南卫视,http://192.168.68.2:4022/udp/239.21.0.133:3876
 海南卫视,http://192.168.68.2:4022/udp/239.21.0.134:3880
 
+#咪咕赛事
 
 咪咕-赛事29,http://192.168.68.2:4022/udp/239.11.0.22:1025
 咪咕-高清赛事28,http://192.168.68.2:4022/udp/239.11.0.21:1025
@@ -326,9 +328,6 @@ CHC高清电影,http://192.168.68.2:4022/udp/239.21.0.119:3820
 广东少儿,http://192.168.68.2:4022/udp/239.10.0.128:1025
 嘉佳卡通,http://192.168.68.2:4022/udp/239.10.0.129:1025
 精选频道1,http://192.168.68.2:4022/udp/239.11.0.15:1025
-
-
-
 
 
 
@@ -471,17 +470,13 @@ CGTN记录,http://192.168.68.2:4022/udp/239.21.0.110:3780
 
 
 
-
-
-
-
 凤凰卫视中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhchinese5s.m3u8
 凤凰卫视资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8
 凤凰卫视香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2#http://192.168.68.2:6678/kinsum.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd#http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 CHC高清电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCGaoQingDianYing
-CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8#http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing#http://eastscreen.tv/ooooo.php?id=chcdz
-CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8#http://eastscreen.tv/ooooo.php?id=chcjt
+CHC动作电影,http://v4s.xiepeiru.top:1123/iptv/zx/CHCDongZuoDianYing#http://eastscreen.tv/ooooo.php?id=chcdz
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 1905电影亚洲,http://v4s.xiepeiru.top:1123/iptv/yz/1905y
 动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
@@ -510,24 +505,15 @@ RTHK32，http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 八度空间，http://php.jdshipin.com:8880/smt.php?id=TV8
 Astro AOD，http://php.jdshipin.com:8880/smt.php?id=Aodhd
 Astro AEC，http://php.jdshipin.com:8880/smt.php?id=AEC
-爱奇艺，http://php.jdsh<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M14 17H4V19H14V17ZM20 9H4V11H20V9ZM4 15H20V13H4V15ZM4 5V7H20V5H4Z" fill="currentColor"/>
-</svg>ipin.com:8880/smt.php?id=Qiyi
 Astro QJ，http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台，http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 -------------
-1905电影,http://v4s.xiepeiru.top:1123/iptv/gj/1905g#http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy2
-经典回顾,http://itv.91tvb.cc:80/2024/huya.php?id=21059529
-红色经典,http://itv.91tvb.cc:80/2024/huya.php?id=11602076
-北京IPTV淘电影,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTVTaoDianYing
-北京IPTV4K,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTV4k
-爱上4K,http://v4s.xiepeiru.top:1123/iptv/zx/AiShang4k
-北京IPTV淘剧场,http://v4s.xiepeiru.top:1123/iptv/zx/BeiJingIPTVTaoJuChang
+
 ----------------
-2025-04-13 18:49:08,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-1,http://ms.fxim.net:808/hls/1/index.m3u8
 CCTV-1,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
@@ -552,12 +538,10 @@ CCTV-6,http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
 CCTV-6,http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8
 CCTV-7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV-7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-CCTV-7,http://ms.fxim.net:808/hls/7/index.m3u8
+
 CCTV-7,http://113.140.12.230:8888/newlive/live/hls/8/live.m3u8
-CCTV-8,http://ms.fxim.net:808/hls/8/index.m3u8
+
 CCTV-8,http://113.140.12.230:8888/newlive/live/hls/9/live.m3u8
-CCTV-9,http://ms.fxim.net:808/hls/9/index.m3u8
-CCTV-10,http://ms.fxim.net:808/hls/10/index.m3u8
 CCTV-10,http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV-10,http://113.140.12.230:8888/newlive/live/hls/11/live.m3u8
 CCTV-11,http://ms.fxim.net:808/hls/11/index.m3u8
