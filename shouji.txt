@@ -25,6 +25,7 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 
 央视，#genre#
 
+
 CCTV-1,http://192.168.68.2:4022/udp/239.10.0.114:1025
 CCTV-1,http://192.168.68.2:4022/udp/239.20.0.96:3016
 CCTV-2,http://192.168.68.2:4022/udp/239.10.0.207:1025
